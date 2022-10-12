@@ -1,0 +1,6 @@
+com\kgisl\webflux2\Webflux2Application.class
+com\kgisl\webflux2\repository\StudentRepository.class
+com\kgisl\webflux2\service\StudentService.class
+com\kgisl\webflux2\entity\StudentMongo.class
+com\kgisl\webflux2\entity\StudentMongo$StudentMongoBuilder.class
+com\kgisl\webflux2\controller\StudentController.class
