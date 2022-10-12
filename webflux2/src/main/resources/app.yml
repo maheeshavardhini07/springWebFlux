@@ -1,0 +1,14 @@
+spring:
+  application:
+    name: spring-webflux-guide
+  webflux:
+    base-path: /api
+  data:
+    mongodb:
+      authentication-database: admin
+      uri: mongodb://localhost:27017/webfluxrestapi
+      database: webfluxrestapi
+server:
+  error:
+    whitelabel: 
+      enabled: false
